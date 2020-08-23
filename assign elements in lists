@@ -1,0 +1,27 @@
+#assigning elements to different lists
+fruits = ["apple","banana","orange","grapes"]
+print(fruits)
+
+#replace
+fruits(2) = ("water melon")
+print(fruits)
+
+#insert
+fruits.insert(1,"mango")
+print(fruits)
+
+#sort
+fruits.sort()
+print(fruits)
+
+#delete
+del fruits[0]
+print(fruits)
+
+#append
+fruits.append("strawberry")
+prints("fruits")
+
+#reverse
+fruits.reverse()
+print(fruits)
